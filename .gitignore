@@ -3975,3 +3975,5 @@ logs/microblog.log
 logs/microblog.log.1
 logs/microblog.log.2
 migrations/README
+messages.pot
+.vscode/launch.json
