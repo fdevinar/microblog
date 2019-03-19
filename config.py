@@ -13,4 +13,4 @@ class Config(object):
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
     ADMINS = ['fc_devinar@hotmail.com']
     POSTS_PER_PAGE = 10
-    LANGUAGES = ['en','pt-BR']
+    LANGUAGES = ['en','pt']
