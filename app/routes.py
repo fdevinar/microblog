@@ -1,5 +1,4 @@
-from flask import render_template, flash, redirect, url_for, request, g
-from flask import jsonify
+from flask import render_template, flash, redirect, url_for, request, g, jsonify
 from app import app, db
 from app.forms import LoginForm, RegistrationForm, EditProfileForm, PostForm
 from flask_login import current_user, login_user, logout_user, login_required
